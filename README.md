@@ -604,10 +604,6 @@ Version: 1.1
 
 
 
-!\[](data:image/jpeg;base64,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)
-
-
-
 \*\*INSTITUTE OF MANAGEMENT SCIENCES\*\*
 
 
@@ -884,7 +880,7 @@ Stores ride earnings.
 
 
 
-\# \_ERD Diagram v.1.2.\_
+\# \_ERD Diagram v.1.2.
 
 &#x20;
 
@@ -932,7 +928,7 @@ The ERD diagram visually represents:
 
 \*\*Amusement Park Management System  
 
-\*\*Milestone 2 - ERD Optimized \& Normalization \*\*v.1.2  
+\*\*Milestone 2 - ERD Optimized \& Normalization \*\*v.1.3
 
 \*\*
 
@@ -954,11 +950,9 @@ Semester: BSSE (A) - 4th Semester
 
 
 
-Version: 1.2
+Version: 1.3
 
 
-
-!\[](data:image/jpeg;base64,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)
 
 
 
@@ -1281,4 +1275,291 @@ Following the normalization review, structural modifications were successfully a
 
 
 \_Updated ERD diagram v1.3\_
+
+
+\*\*Dataset Preprocessing \& Dataflow\*\*
+
+
+
+\*\*Amusement Park Management System\*\*
+
+
+
+Synthetic Data Generation and System Dataflow Description
+
+
+
+Milestone 1.4 - Dataset Preprocessing
+
+
+
+Submitted By: Haleema Gohar
+
+
+
+Submitted to: Sir Ali Hassan
+
+
+
+Subject: Database Lab
+
+
+
+Semester: BSSE (A) - 4th Semester
+
+
+
+Version: 1.4
+
+
+
+\*\*INSTITUTE OF MANAGEMENT SCIENCES\*\*
+
+
+
+\*\*HAYTABAD, PESHAWAR (2026)\*\*
+
+
+
+\# Version Control Table
+
+
+
+| \*\*Version\*\* | \*\*Milestone\*\*      | \*\*Description\*\*                                                                                                                                                                                                                                                        | \*\*Status\*\* |
+
+| ----------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+
+| 1.0         | Project Proposal   | Initial proposal of Amusement Park DBMS with problem statement, objectives, and basic planning                                                                                                                                                                         | Completed  |
+
+| 1.1         | Schema             | Complete relational schema design, tables, keys, constraints, normalization, and SQL structure                                                                                                                                                                         | Completed  |
+
+| 1.2         | ERD Diagram        | Entity Relationship Diagram showing table relationships and cardinality                                                                                                                                                                                                | Completed  |
+
+| 1.3         | Normalization      | Normalized Schema \& ERD Optimization. Removed email, visit\_date, and ticket\_type from Customers. Migrated transactional tracking (ticket\_type, valid\_date) directly into the Tickets table to eliminate structural anomalies and support multi-visit customer profiles | Completed  |
+
+| 1.4         | Dataset \& Dataflow | Preprocessed synthetic datasets and organized the system dataflow map to align with 3NF database adjustments.                                                                                                                                                          | Completed  |
+
+
+
+\# \*\*1\\. Overview\*\*
+
+
+
+This milestone covers three tasks: (1) generating structured synthetic data sufficient to populate all six database tables, (2) documenting the complete dataflow for the Amusement Park Management System, and (3) exporting one CSV file per table for use in Milestone 5 data population.
+
+
+
+\# \*\*2\\. Dataset Preparation\*\*
+
+
+
+\## \*\*2.1 Approach\*\*
+
+
+
+Since the Amusement Park Management System does not use a real-world dataset, structured synthetic data was generated using Python with the Faker library. The data has been systematically cleaned and transformed to ensure complete relational consistency with our \*\*Version 1.3 3NF architecture\*\*.
+
+
+
+\## \*\*2.2 Row Counts Per Table\*\*
+
+
+
+| \*\*Table\*\*           | \*\*Row Count\*\* | \*\*Notes\*\*                                                                                   |
+
+| ------------------- | ------------- | ------------------------------------------------------------------------------------------- |
+
+| \*\*Rides\*\*           | 10            | Static park asset catalog - seeded once at system setup, never modified by front-end users. |
+
+| \*\*Customers\*\*       | 75            | Master visitor list containing names and standardized Pakistani mobile phone connections.   |
+
+| \*\*Tickets\*\*         | 75            | Point-of-sale gate entry receipts. Stores ticket tiers and calendar access targets.         |
+
+| \*\*Ride\_Bookings\*\*   | 163           | Transactional records capturing customer interactions with specific park rides.             |
+
+| \*\*Ride\_Operations\*\* | 270           | Aggregated daily utilization data logs spanning 30 full days of park activity.              |
+
+| \*\*Revenue\*\*         | 183           | Reconciled ledger rows tracking earnings across various park sales streams.                 |
+
+
+
+\## \*\*2.3 Data Realism \& Consistency Rules\*\*
+
+
+
+To meet rigorous data preprocessing requirements, the following validation rules were applied during dataset creation:
+
+
+
+\*\*Contact Standardization:\*\* Customer phone numbers match standard domestic mobile patterns (03##########) represented cleanly as text strings. All complex, slow-to-input string attributes (like email) are excluded to optimize gate booth workflows.
+
+
+
+\*\*Temporal Tracking Realignment:\*\* The customer profile contains no temporal elements. Instead, entry permissions are tracked using valid\_date within the Tickets table, distributed across an operational window in April and May 2026.
+
+
+
+\*\*Tier Assignment Logic:\*\* The attribute ticket\_type is treated as a transactional property of an individual sale within the Tickets table, using an ENUM validation constraint (Adult, Child, Senior, Student).
+
+
+
+\*\*Asset Availability Filter:\*\* Ride bookings can only map to rows in the Rides table where status = 'Active'. Under-maintenance assets (such as \_Spinning Cups\_) are excluded from user booking options.
+
+
+
+\*\*Capacity Safeguards:\*\* The num\_riders field inside Ride\_Bookings is checked programmatically to ensure it never violates the min\_capacity or max\_capacity constraints defined in the target ride's catalog row.
+
+
+
+\*\*Financial Ledger Computations:\*\* The amount\_paid value inside Ride\_Bookings is computed automatically via an equation.
+
+
+
+\*\*Revenue Reconciliations:\*\* All Booking-sourced earnings correspond directly to valid records in the Ride\_Bookings junction table. Supplemental rows with Walk-in, Group, and Event origins are added to model non-digital revenue streams accurately.
+
+
+
+\## \*\*2.4 Preprocessing Steps Applied\*\*
+
+
+
+Before exporting data to clean CSV structures, the following data cleaning procedures were executed:
+
+
+
+\- \*\*Redundancy Elimination:\*\* The email and visit\_date attributes were dropped from customers.csv to fulfill 3NF compliance.
+
+\- \*\*Key Uniqueness Verification:\*\* Every primary key consists of a sequentially incremented, non-null integer value to prevent index collisions.
+
+\- \*\*Foreign Key Integrity Audit:\*\* Dependent child columns (customer\_id, ride\_id) were audited against their parent master records to ensure no orphaned references exist.
+
+\- \*\*String Trimming:\*\* Text strings were stripped of leading or trailing whitespaces to maintain clean, predictable data indexing.
+
+
+
+\*\*3\\. Dataflow Description\*\*
+
+
+
+This section defines how data enters the system, moves through our relational tables, and translates into high-value outputs. This structure reflects the actual updated database configuration.
+
+
+
+\## \*\*3.1 Data Entry Points\*\*
+
+
+
+| \*\*Entry Point\*\*                | \*\*Target Table\*\* | \*\*Description\*\*                                                                                                                                                                      |
+
+| ------------------------------ | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+| \*\*Ride seed script (SQL)\*\*     | Rides            | Run once during setup to populate the catalog with 10 operational rides. This reference data is fixed and cannot be altered by visitors.                                             |
+
+| \*\*Customer registration form\*\* | Customers        | Captured at ticket counters or online forms. Collects stable profile data (full\_name, phone) and auto-assigns a unique customer\_id.                                                  |
+
+| \*\*Ticket pass\*\*                | Tickets          | Populated when an admission pass is purchased. Cashiers assign a customer\_id, select a ticket\_type, and input the scheduled valid\_date. The system automatically provides the price. |
+
+| \*\*Ride booking form\*\*          | Ride\_Bookings    | Created when a customer boards an asset. The system captures customer\_id, ride\_id, and num\_riders. The backend calculates amount\_paid and appends a real-time timestamp.             |
+
+| \*\*Revenue auto-insert\*\*        | Revenue          | Triggered automatically after a transaction occurs in Ride\_Bookings. It records the transaction under the Booking source category.needed.                                            |
+
+| \*\*Nightly\*\* Auditing Utility   | Ride\_Operations  | An automated process aggregates data from Ride\_Bookings at midnight, compiling total daily usage stats (total\_rounds, total\_customers) per ride.                                     |
+
+
+
+\## \*\*3.2 Inter-Table Dependencies (Data Movement)\*\*
+
+
+
+Data moves through the tables in the following sequence. Each arrow represents a dependency - the child table cannot be populated before its parent.
+
+
+
+\\\[Rides\\] ─────────────|─> \\\[Ride\_Bookings\\] ───> \\\[Revenue\\]
+
+
+
+| ^
+
+
+
+\\\[Customers\\] ──> \\\[Tickets\\] |
+
+
+
+| |
+
+
+
+|────────────────|
+
+
+
+· \*\*Customers -> Tickets:\*\* A ticket cannot be issued without mapping to an established customer record. The column customer\_id inside Tickets acts as a direct foreign key constraint to the master customer ledger.
+
+
+
+· \*\*Customers -> Ride\_Bookings <- Rides:\*\* The Ride\_Bookings table resolves the Many-to-Many relationship between visitors and park rides. It cannot ingest data without drawing valid primary key references from both parent tables.
+
+
+
+· \*\*Ride\_Bookings -> Revenue:\*\* Upfront transaction amounts captured during ride checkouts pass directly to the financial tracking entity, defining its baseline earnings log.
+
+
+
+· \*\*Ride\_Bookings -> Ride\_Operations:\*\* Individual transaction sequences provide the raw data used to generate aggregated end-of-day operations charts.
+
+
+
+\## \*\*3.3 Data Output (What Comes Out)\*\*
+
+
+
+| \*\*Output\*\*                    | \*\*Description\*\*                                                                                                                                                                                                      |
+
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+| \*\*Most popular rides report\*\* | Aggregates total transaction frequencies and headcount distributions from Ride\_Bookings to help management optimize park ride placement and promotions.                                                              |
+
+| \*\*Daily revenue total\*\*       | Compiles all data points within the Revenue table to output daily financial updates for administrative oversight dashboards.                                                                                         |
+
+| \*\*Ride\*\* Efficiency \*\*rate\*\*  | Combines statistics from Ride\_Operations and Rides to evaluate equipment utilization rates:<br><br>Utilization Rate = total\_customers / (total\_rounds × max\_capacity) - shows how full rides are running on average. |
+
+| \*\*Ticket type breakdown\*\*     | Measures ticket allocations across different ticket\_type categories within the Tickets ledger to identify target customer groups.                                                                                    |
+
+| \*\*Customer spending summary\*\* | Combines information across Customers, Tickets, and Ride\_Bookings to track complete financial contributions per visitor, supporting customer loyalty initiatives.                                                    |
+
+| \*\*Revenue by source\*\*         | Audited daily income logs                                                                                                                                                                                            |
+
+
+
+\## \*\*3.4 Exported CSV Files\*\*
+
+
+
+The following clean data files are stored in the project's GitHub repository. Each file matches our 3NF layout and contains sufficient testing rows:
+
+
+
+rides.csv - 10 rows (Asset catalog)
+
+
+
+customers.csv - 75 rows (Clean personal data, no operational variables)
+
+
+
+tickets.csv - 75 rows (Includes ticket\_type and valid\_date)
+
+
+
+ride\_bookings.csv - 163 rows (Normalized junction table records)
+
+
+
+ride\_operations.csv - 270 rows (30 days of daily operational logs)
+
+
+
+revenue.csv - 183 rows (Audited daily income logs)
 

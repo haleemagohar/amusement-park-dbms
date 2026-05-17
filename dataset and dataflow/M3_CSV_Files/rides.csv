@@ -1,0 +1,11 @@
+ride_id,ride_name,ride_type,min_capacity,max_capacity,price_per_round,status,description
+1,Thunder Coaster,Roller Coaster,2,24,300,Active,High-speed steel coaster with 3 vertical loops
+2,Splash River,Water Ride,1,12,200,Active,Family-friendly river rapid experience
+3,Sky Drop,Free Fall,1,6,350,Active,Vertical free-fall tower from 40 metres
+4,Merry-Go-Round,Carousel,1,20,80,Active,Classic carousel suitable for all ages
+5,Haunted Mansion,Dark Ride,2,8,250,Closed,Indoor dark ride with special effects
+6,Bumper Cars,Flat Ride,1,16,150,Active,Electric bumper car arena
+7,Ferris Wheel,Observation,2,4,120,Active,Giant ferris wheel with panoramic views
+8,Spinning Cups,Flat Ride,1,4,90,Maintenance,Spinning teacup ride under maintenance
+9,Mini Roller Coaster,Roller Coaster,1,8,100,Active,Junior coaster for younger riders
+10,VR Experience Pod,VR Experience,1,1,400,Active,Single-seat immersive VR ride
